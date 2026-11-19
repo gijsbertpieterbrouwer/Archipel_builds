@@ -1,21 +1,38 @@
-MIT License
+Archipel licence
 
-Copyright (c) 2026 Tick.cloud
+Copyright (c) 2026 Gijsbert Brouwer. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. What you may do
+   You may download, install and use the Archipel desktop app (the "Software") from this
+   repository, for yourself or for the organisation you work for.
+   - Free use: one landscape with up to 50 applications and places, at no cost.
+   - Larger use needs a paid licence key, bought from inside the app. The terms shown at purchase
+     apply to that licence.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. What you may not do
+   - copy, change, translate or build on the Software, other than installing it;
+   - redistribute, sell, rent, lend or sublicense the Software, or offer it as a service to others;
+   - reverse engineer, decompile or disassemble the Software, except where the law allows it
+     regardless of this clause;
+   - remove or work around the licence check, or remove notices of ownership.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. Your data
+   Your workspace (the folder with your landscapes and settings) is yours. The Software reads and
+   writes it on your computer and in the git repository you choose. The licence check sends only
+   the licence key and an identifier of the workspace to the licence provider.
+
+4. No warranty
+   The Software is provided "as is", without warranty of any kind. Keep a copy of your workspace
+   (for example in git).
+
+5. Liability
+   To the extent the law allows, the author is not liable for any damage that results from using
+   the Software, including loss of data or profit.
+
+6. Ending
+   This licence ends when you break it. You then stop using the Software and remove it.
+
+7. Law
+   Dutch law applies. Disputes go to the competent court in the Netherlands.
+
+Questions: open an issue in this repository.
